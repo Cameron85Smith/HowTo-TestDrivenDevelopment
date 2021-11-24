@@ -18,10 +18,7 @@ namespace FizzBuzz
         [TestCase("FizzBuzz", 15)]
         [TestCase("FizzBuzz", 30)]
         [TestCase("", 7)]
-        public void TestFizzBuzz(string expected, int number)
-        {
-            Assert.AreEqual(expected, FizzBuzzCheck(number));
-        }
+        public void TestFizzBuzz(string expected, int number) => Assert.AreEqual(expected, FizzBuzzCheck(number));
 
         private string FizzBuzzCheck(int number)
         {
