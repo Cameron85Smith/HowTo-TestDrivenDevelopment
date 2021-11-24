@@ -3802,11 +3802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzz\\FizzBuzz.csproj",
-      "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzzTest\\FizzBuzzTest.csproj",
+      "projectName": "FizzBuzzTest",
+      "projectPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzzTest\\FizzBuzzTest.csproj",
       "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzzTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config"

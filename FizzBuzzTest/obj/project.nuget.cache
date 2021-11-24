@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hmHiPw9CF1T330XjhOq0KT+whpAf4rNVzkoTfTcQ079Jqmrg925HK29WNloLvWDzWmRSlyNF/r4qPOg/Igdhlg==",
+  "dgSpecHash": "5fSGENLma6kV7bgR1BpPkcTaOXb9so1XfnFCY6noy608Jb5201VwYOOeykkYD2xfc/mp1dR6bOukWStGIgQWmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzz\\FizzBuzz.csproj",
+  "projectFilePath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzzTest\\FizzBuzzTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\camer\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\camer\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

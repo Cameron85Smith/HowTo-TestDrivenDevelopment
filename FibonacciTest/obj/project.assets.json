@@ -398,12 +398,6 @@
           "build/NUnit.props": {}
         }
       },
-      "NUnit3TestAdapter/4.1.0": {
-        "type": "package",
-        "build": {
-          "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
-        }
-      },
       "System.Collections/4.0.11": {
         "type": "package",
         "dependencies": {
@@ -1731,31 +1725,6 @@
         "lib/netstandard2.0/nunit.framework.xml",
         "nunit.3.13.2.nupkg.sha512",
         "nunit.nuspec"
-      ]
-    },
-    "NUnit3TestAdapter/4.1.0": {
-      "sha512": "v45RJt87pPAWlCDIftmtQhNK0mXd81IcnTE6SmWUmxi6YegCvkQogZQ/ROw4zyNyo2HI3Ckby3LB0GHF4bEIXg==",
-      "type": "package",
-      "path": "nunit3testadapter/4.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/net35/NUnit3.TestAdapter.dll",
-        "build/net35/NUnit3.TestAdapter.pdb",
-        "build/net35/NUnit3TestAdapter.props",
-        "build/net35/nunit.engine.api.dll",
-        "build/net35/nunit.engine.core.dll",
-        "build/net35/nunit.engine.dll",
-        "build/net35/testcentric.engine.metadata.dll",
-        "build/netcoreapp2.1/NUnit3.TestAdapter.dll",
-        "build/netcoreapp2.1/NUnit3.TestAdapter.pdb",
-        "build/netcoreapp2.1/NUnit3TestAdapter.props",
-        "build/netcoreapp2.1/nunit.engine.api.dll",
-        "build/netcoreapp2.1/nunit.engine.core.dll",
-        "build/netcoreapp2.1/nunit.engine.dll",
-        "build/netcoreapp2.1/testcentric.engine.metadata.dll",
-        "nunit3testadapter.4.1.0.nupkg.sha512",
-        "nunit3testadapter.nuspec"
       ]
     },
     "System.Collections/4.0.11": {
@@ -3792,8 +3761,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 17.0.0",
-      "NUnit >= 3.13.2",
-      "Nunit3TestAdapter >= 4.1.0"
+      "NUnit >= 3.13.2"
     ]
   },
   "packageFolders": {
@@ -3802,11 +3770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\Fibonacci\\Fibonacci.csproj",
-      "projectName": "Fibonacci",
-      "projectPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\Fibonacci\\Fibonacci.csproj",
+      "projectUniqueName": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FibonacciTest\\FibonacciTest.csproj",
+      "projectName": "FibonacciTest",
+      "projectPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FibonacciTest\\FibonacciTest.csproj",
       "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\Fibonacci\\obj\\",
+      "outputPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FibonacciTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3840,10 +3808,6 @@
           "NUnit": {
             "target": "Package",
             "version": "[3.13.2, )"
-          },
-          "Nunit3TestAdapter": {
-            "target": "Package",
-            "version": "[4.1.0, )"
           }
         },
         "imports": [

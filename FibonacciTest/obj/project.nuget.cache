@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBFWhketgotSF4ypPijIwwDyoXj2/0KtEZUi7Dab7Y1N+FynCPUyxyvxw+8i3Boa4eSbCCvxCYwoNxawA9jP7g==",
+  "dgSpecHash": "qIwxSOxLvwAsbI9XVdpvF5K3lxxsIeTrmAzQeJ8TRBXuMF5rkczd6uv7Yp6yCa/KzQCX39vfNm5TzzfIc+UvTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\Fibonacci\\Fibonacci.csproj",
+  "projectFilePath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FibonacciTest\\FibonacciTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\camer\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\camer\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -15,7 +15,6 @@
     "C:\\Users\\camer\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\camer\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\camer\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
-    "C:\\Users\\camer\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
     "C:\\Users\\camer\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\camer\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\camer\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",

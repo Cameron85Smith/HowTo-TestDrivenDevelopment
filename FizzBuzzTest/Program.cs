@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace FizzBuzz
+namespace FizzBuzzTest
 {
     /*
         If divisible by 3          -> return "Fizz"
@@ -9,7 +9,7 @@ namespace FizzBuzz
         Otherwise                  -> return ""
     */
     [TestFixture]
-    public class FizzBuzz
+    public class FizzBuzzTest
     {
         [TestCase("Fizz", 3)]
         [TestCase("Fizz", 6)]
@@ -18,9 +18,9 @@ namespace FizzBuzz
         [TestCase("FizzBuzz", 15)]
         [TestCase("FizzBuzz", 30)]
         [TestCase("", 7)]
-        public void TestFizzBuzz(string expected, int number) => Assert.AreEqual(expected, FizzBuzzCheck(number));
+        public void TestFizzBuzz(string expected, int number) => Assert.AreEqual(expected, FizzBuzz(number));
 
-        private string FizzBuzzCheck(int number)
+        private string FizzBuzz(int number)
         {
             if (number % 3 == 0 && number % 5 == 0)
                 return "FizzBuzz";

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FibonacciTest\\FibonacciTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FibonacciTest\\FibonacciTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzz\\FizzBuzz.csproj",
-        "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FibonacciTest\\FibonacciTest.csproj",
+        "projectName": "FibonacciTest",
+        "projectPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FibonacciTest\\FibonacciTest.csproj",
         "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\FibonacciTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,10 +45,6 @@
             "NUnit": {
               "target": "Package",
               "version": "[3.13.2, )"
-            },
-            "Nunit3TestAdapter": {
-              "target": "Package",
-              "version": "[4.1.0, )"
             }
           },
           "imports": [
