@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToeTest\\TicTacToe.csproj": {}
+    "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToeTest\\TicTacToe.csproj": {
+    "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToeTest\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToeTest\\TicTacToe.csproj",
+        "projectPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\camer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToeTest\\obj\\",
+        "outputPath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camer\\AppData\\Roaming\\NuGet\\NuGet.Config"

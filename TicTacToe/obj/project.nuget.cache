@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m/HdS8LZkqCia4s0Ur/TflCs5x516g6AIUFSm5ESQeuZdNFff0sYvIudB0zcGuIcYMrhOcrnwXo73quDBcJq+w==",
+  "dgSpecHash": "Ge9T8Ef79ays9dPDZlmuw17G7+Z1cMiOF+j6hz+N2s7kJt9R5vyMwQnwadQAJJLzKhDgfGr1yf63hYR+zfLJTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToeTest\\TicTacToe.csproj",
+  "projectFilePath": "C:\\Users\\camer\\source\\C-Sharp\\HowTo-TestDrivenDevelopment\\TicTacToe\\TicTacToe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\camer\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\camer\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
