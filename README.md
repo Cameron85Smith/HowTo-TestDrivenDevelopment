@@ -40,3 +40,26 @@ We need to keep the design as clean as possible, in other words, as maintainable
 
 2. Fragility - The software is fragile if small changes in our module causes bugs in another module. The smell is also often caight when there is a tight-coupling between modules.
 
+3. Immobility - Software is immobile when its components can't be reused in other systems. This smell is caused by tight-coupling between components.
+
+4. Viscosity - The software is said to be viscose when adding a single feature evokes dealing with tons of aspects. This is due to tight-coupling as well.
+
+5. Needless Complexity - Software is needlessly complex if developers are trying to forecast the future by introducing excessive points of extension. Adding "not-needed" points of extension is bad practice that leads to needless complexity. Developers should instead focus on current requirements, constructing the supple architecture which can bend to meet new requirements.
+
+## F.I.R.S.T.
+
+Unit tests form the safety net because it helps us to verify the correctness of the system with one-click that will run the whole suite of tests. Therefore, we don't have a fear of introducing changes into the existing code base.
+
+All unit tests we write should run fast. There are five characteristics which define a good unit test.
+
+- Fast - A test should not run for more than 100 milliseconds.
+- Independent - Tests should not depend on each other. There should be no ordered tests.
+- Repeatable - Tests should produce the same results, no matter how many times you run them.
+- Self-Validatable - Tests should either pass or fail.
+- In-Time - Tests should be written before production code.
+
+## Types of tests
+
+- Unit Tests - It verifies the behaviour of a unit under test (in isolation).
+- Integration Tests - Verifies the behaviour of either a part of a system or a whole system. They are brittle, hard to maintain, and slow.
+- Acceptance Tests - Verifies the software from the users point of view.
