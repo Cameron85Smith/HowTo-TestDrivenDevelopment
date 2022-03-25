@@ -12,10 +12,9 @@ Test-Driven Development is the approach of writing tests ahead of the production
 
 Unit tests are specifications of what the code should do. When developers write unit tests they only implement the production code that satisfies the unit tests. Otherwise, developers tend to write generalized, and thus, more complex code. TDD helps to avoid all these problems. When you write unit tests first, you can't avoid thinking of how to make the production code more testable, since in the first place, you need to make the unit test pass.
 
-# Red/Green/Refactor
+## Red/Green/Refactor
 
 The main technique of TDD is called Red/Green/Refactor. These are short names of repeateable steps.
 
-*Red*
-
-When writing a unit test, we first make it fail with dummy logic in the valling method. This is known as the Red Phase.         
+**Red**
+ - When writing a unit test, we first make it fail with dummy logic in the valling method. This is known as the Red Phase.         
