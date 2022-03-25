@@ -21,3 +21,22 @@ The main technique of TDD is called Red/Green/Refactor. These are short names of
 **Green** - In the second step, we remove the dummy logic where we write the production code that will turn the unit test green. This is known as the Green Phase.
 
 **Refactor** - In the third step, we refactor our code.
+
+## Laws of TDD
+
+As can be seen, TDD implies that we should write tests before the implementation of a particular feature. There are three very important laws of TDD, that being:
+
+1. Never write a line of production code before writing a failing test.
+2. Write a minimal test which is enough to see the failure.
+3. Don't write production code more than enough to pass the failing test.
+
+## Design Smells
+
+Turning off a test because you can't fix it right now is symptomatic of a design/code smell.
+
+We need to keep the design as clean as possible, in other words, as maintainable as possible. A design smell can come in the form of:
+
+1. Rigidity - The software is rigid if the cost of making a single change is high. The reason for this can be due to tight-coupling between modules. When modules are tightly coupled, then it is very difficult to introduce changes with ease.
+
+2. Fragility - The software is fragile if small changes in our module causes bugs in another module. The smell is also often caight when there is a tight-coupling between modules.
+
