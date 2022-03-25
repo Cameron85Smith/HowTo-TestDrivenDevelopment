@@ -16,11 +16,11 @@ Unit tests are specifications of what the code should do. When developers write 
 
 The main technique of TDD is called Red/Green/Refactor. These are short names of repeateable steps.
 
-**Red** - When writing a unit test, we first make it fail with dummy logic in the valling method. This is known as the Red Phase.
+- **Red** - When writing a unit test, we first make it fail with dummy logic in the valling method. This is known as the Red Phase.
 
-**Green** - In the second step, we remove the dummy logic where we write the production code that will turn the unit test green. This is known as the Green Phase.
+- **Green** - In the second step, we remove the dummy logic where we write the production code that will turn the unit test green. This is known as the Green Phase.
 
-**Refactor** - In the third step, we refactor our code.
+- **Refactor** - In the third step, we refactor our code.
 
 ## Laws of TDD
 
